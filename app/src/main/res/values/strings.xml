@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Potato</string>
+    <string name="title_activity_google_sign_in">GoogleSignInActivity</string>
+</resources>
